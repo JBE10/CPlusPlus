@@ -1,0 +1,3 @@
+/Users/bautiespino/Documents/C++ Auto/cmake-build-debug/CMakeFiles/C___Auto.dir
+/Users/bautiespino/Documents/C++ Auto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bautiespino/Documents/C++ Auto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
