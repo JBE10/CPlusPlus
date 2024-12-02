@@ -35,8 +35,20 @@ void modificar(int* x) {
 
 
 int main() {
-    int numeros[]={1,2,3,4,5,6,7,8,9,10};
-    int* pNumeros=numeros;
+    int n;
+    cout<<"Ingrese un numero: ";
+    cin>>n;
+    int* lista=new int[n];
+
+    for (int i;i<n;i++) {
+        lista[i]=i*2;
+    }
+    cout<<endl;
+
+    delete[] lista;
+
+
+
 
     return 0;
 }
